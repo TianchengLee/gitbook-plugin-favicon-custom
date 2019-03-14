@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-favicon-custom",
+  "version": "1.0.0",
+  "description": "This is GitBook plugin for custom favicon",
+  "engines": {
+    "gitbook": ">3.2.3"
+  },
+  "gitbook": {
+    "properties": {
+      "favicon": {
+        "type": "string",
+        "default": "./favicon.ico",
+        "description": "path to favicon"
+      },
+      "appleTouchIconPrecomposed152": {
+        "type": "string",
+        "default": "./favicon.ico",
+        "description": "path to apple-touch-icon-precomposed-152"
+      }
+    }
+  }
+}
