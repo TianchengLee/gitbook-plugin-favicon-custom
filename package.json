@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is GitBook plugin for custom favicon",
   "engines": {
-    "gitbook": ">3.2.3"
+    "gitbook": ">0.0.1"
   },
   "gitbook": {
     "properties": {
